@@ -1,0 +1,21 @@
+                                                                                ,------.                                                                                         
+                                                                                |iPhone|                                                                                         
+                                                                                |------|                                                                                         
+                                                                                `------'                                                                                         
+                                                                                    |                                                                                            
+                                                                                    |                                                                                            
+                             ,--------------.   ,------------------.   ,------------------------.                                                         ,-------------.        
+,-------------------------.  |TelaMultitoque|   |InterfaceDeUsuario|   |CombinacaoDeDispositivos|       ,--------------.        ,-------------.           |Conectividade|        
+|iPhoneInterface          |  |--------------|   |------------------|   |------------------------|       |TecladoVirtual|        |EmailHTML    |           |-------------|        
+|-------------------------|  |+tipoToque    |   |+menus            |   |+telefone               |       |--------------|        |-------------|           |+Wi-Fi       |        
+|+executarFuncionalidade()|  |+gestos       |   |+animações        |   |+iPod                   |       |+layout       |        |+formatoEmail|           |+EDGE        |        
+`-------------------------'  `--------------'   `------------------'   |+internet               |       `--------------'        `-------------'           `-------------'        
+                                                                       `------------------------'                                                                                
+                                                                                                                                                                                 
+                                                                ,---------------------------------.                                                                              
+     ,-----------------------.  ,---------------------------.   |CombinacaoDeDispositivosInterface|   ,-----------------------.   ,------------------.   ,----------------------.
+     |TelaMultitoqueInterface|  |InterfaceDeUsuarioInterface|   |---------------------------------|   |TecladoVirtualInterface|   |EmailHTMLInterface|   |ConectividadeInterface|
+     |-----------------------|  |---------------------------|   |+fazerChamada()                  |   |-----------------------|   |------------------|   |----------------------|
+     |+pinchToZoom()         |  |+navegarInterface()        |   |+tocarMusica()                   |   |+digitarTexto()        |   |+visualizarEmail()|   |+conectarWiFi()       |
+     |+deslizar()            |  `---------------------------'   |+navegarWeb()                    |   `-----------------------'   |+enviarEmail()    |   |+usarEDGE()           |
+     `-----------------------'                                  `---------------------------------'                               `------------------'   `----------------------'
